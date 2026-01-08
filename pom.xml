@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>c9be4e8e-d0e9-436e-987d-531a60c7a748</groupId>
-	<artifactId>maven-deploy-cloud2-v2</artifactId>
-	<version>1.0.2</version>
+	<artifactId>maven-deploy-cloudHub2</artifactId>
+	<version>1.0.3</version>
 	<packaging>mule-application</packaging>
 
 	<name>maven-deploy-cloud2</name>
