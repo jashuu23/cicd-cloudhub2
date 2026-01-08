@@ -55,7 +55,7 @@ jobs:
           -Danypoint.password="${{ secrets.PASS }}" \
           -Danypoint.businessGroup="${{ secrets.ANYPOINT_ORG_ID }}" \
           -Denv="${{ secrets.ENV }}" \
-          -Dappname="${{ secrets.APP_NAME }}" \
+          -Dappname="cicd-deploy-cloudhub2" \
           -Danypoint.platform.client_id="${{ secrets.ENV_CLIENT_ID }}" \
           -Danypoint.platform.client_secret="${{ secrets.ENV_CLIENT_SECRET }}" 
           # -Dmule.env="${{ secrets.MULE_ENV }}" \
