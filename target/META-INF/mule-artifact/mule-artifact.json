@@ -1,0 +1,25 @@
+{
+  "configs": [
+    "maven-deploy-cloud2.xml"
+  ],
+  "secureProperties": [],
+  "supportedJavaVersions": [],
+  "redeploymentEnabled": true,
+  "name": "c9be4e8e-d0e9-436e-987d-531a60c7a748:maven-deploy-cloud2-v2:1.0.2",
+  "minMuleVersion": "4.9.0",
+  "requiredProduct": "MULE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "log4j2.xml",
+        "maven-deploy-cloud2.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}
